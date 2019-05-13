@@ -1,1 +1,2 @@
 this is a helper function
+function 2
